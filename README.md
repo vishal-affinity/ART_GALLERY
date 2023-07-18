@@ -1,2 +1,2 @@
-# ART_GALLERY
-Creating a complete art gallery in PHP involves several components, including a database to store artwork information, PHP scripts to handle data retrieval and display, and HTML/CSS for the frontend layout. I'll provide you with a basic outline of how you could set up a simple art gallery using PHP and MySQL.
+# ART-BAY
+An online art gallery web-based management system which allows collector/s and artist/s of Albay to buy or sell a product/s (arts like painting, photographs, sculptures, etc.) and promote their artwork/s by posting through the website.
